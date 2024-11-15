@@ -1,0 +1,14 @@
+D:\A-H_p_p\zaliczenie\GuessTheNumber\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.exe
+D:\A-H_p_p\zaliczenie\GuessTheNumber\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.deps.json
+D:\A-H_p_p\zaliczenie\GuessTheNumber\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.runtimeconfig.json
+D:\A-H_p_p\zaliczenie\GuessTheNumber\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.dll
+D:\A-H_p_p\zaliczenie\GuessTheNumber\GuessTheNumber\bin\Debug\net8.0\GuessTheNumber.pdb
+D:\A-H_p_p\zaliczenie\GuessTheNumber\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\A-H_p_p\zaliczenie\GuessTheNumber\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.AssemblyInfoInputs.cache
+D:\A-H_p_p\zaliczenie\GuessTheNumber\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.AssemblyInfo.cs
+D:\A-H_p_p\zaliczenie\GuessTheNumber\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.csproj.CoreCompileInputs.cache
+D:\A-H_p_p\zaliczenie\GuessTheNumber\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.dll
+D:\A-H_p_p\zaliczenie\GuessTheNumber\GuessTheNumber\obj\Debug\net8.0\refint\GuessTheNumber.dll
+D:\A-H_p_p\zaliczenie\GuessTheNumber\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.pdb
+D:\A-H_p_p\zaliczenie\GuessTheNumber\GuessTheNumber\obj\Debug\net8.0\GuessTheNumber.genruntimeconfig.cache
+D:\A-H_p_p\zaliczenie\GuessTheNumber\GuessTheNumber\obj\Debug\net8.0\ref\GuessTheNumber.dll
