@@ -1,1 +1,1 @@
-Simple console game abour guessing number
+Simple console game about guessing the number
