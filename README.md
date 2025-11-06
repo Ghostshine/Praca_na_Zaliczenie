@@ -1,3 +1,1 @@
-Imię i nazwisko: Daria Borowska
-semestr 1
-122832
+Simple console game abour guessing number
